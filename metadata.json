@@ -1,0 +1,5 @@
+{
+  "name": "Meteor Fighter",
+  "description": "A 3D mobile flight shooting game where you dodge meteors and fight enemy fighters. Features GPS-based speed integration.",
+  "requestFramePermissions": ["geolocation"]
+}
